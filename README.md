@@ -52,7 +52,7 @@ $ git push
 Ipohaa@MainPC MINGW64 /f/git/JSON (main)
 $ cat > preferences.json
 ```
-## 10. В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, страна которую хотели бы посетить) в формате JSON.
+## 10. В файл preferences.json добавить информацию о своих предпочтениях в формате JSON.
 ```
 Ipohaa@MainPC MINGW64 /f/git/JSON (main)
 $ vi preferences.json
