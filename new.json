@@ -1,0 +1,12 @@
+{
+   "name": "Nikita",
+   "age": 24,
+   "relocate": true,
+   "cities": [
+      "Moscow",
+      "Saint Petersburg",
+      "Ekaterinburg"
+   ],
+   "pets": null,
+   "salary": 2000
+}
