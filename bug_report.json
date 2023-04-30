@@ -1,6 +1,6 @@
 {
    "id": "1",
-   "summary":"В файле README.md неправильный два заголовка #16 ",
+   "summary":"В файле README.md два заголовка #16 ",
    "description":"В репозитории ipohaa/JSON в файле README.md два одинаковых заголовка #16, у второго заголовка #16 должен быть номер #17",
    "enviroment":{
       "browser": "Yandex Browser 23.3.3.719 (64-bit)",
